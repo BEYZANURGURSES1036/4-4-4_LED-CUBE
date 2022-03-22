@@ -8,6 +8,8 @@ Projeye [buradan](https://www.youtube.com/watch?v=xSYJ9BTcr1M) erişebilirsiniz.
 
 ## Projeyi Yapan
 >**[Beyzanur GÜRSES](https://github.com/BEYZANURGURSES1036)**
->>**[Nazlı Tuğba GÜRSOY](https://github.com/nzligursoy)**
->>**[Elanur BAŞARAN](https://github.com/Elanur7)**
+
+>**[Nazlı Tuğba GÜRSOY](https://github.com/nzligursoy)**
+
+>**[Elanur BAŞARAN](https://github.com/Elanur7)**
 
