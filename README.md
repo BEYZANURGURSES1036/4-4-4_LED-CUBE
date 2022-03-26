@@ -1,7 +1,7 @@
 # 4×4×4 LED-CUBE
 ### Led Cube With Ardunio Uno
 Elektronik severlerin ilgisini çekebilecek Led Küp projesi günlük yaşantımızda güzel ve çeşitli dekoratif görüntü oluşturmalarda kullanılmaktadır.
-Projenin içeriği kapsamlı bir şekilde rapor bölümünde yer almaktadır
+Projenin içeriği kapsamlı bir şekilde rapor bölümünde yer almaktadır.
 
 ## Projenin Anlatım Videosu(Youtube)
 Projeye [buradan](https://www.youtube.com/watch?v=xSYJ9BTcr1M) erişebilirsiniz.
