@@ -4,7 +4,7 @@ Elektronik severlerin ilgisini çekebilecek Led Küp projesi günlük yaşantım
 Projenin içeriği kapsamlı bir şekilde rapor bölümünde yer almaktadır.
 
 ## Projenin Anlatım Videosu(Youtube)
-Projeye [buradan](https://www.youtube.com/watch?v=xSYJ9BTcr1M) erişebilirsiniz.
+Projeye [buradan](https://youtu.be/des1rqTCV6g) erişebilirsiniz.
 
 ## Projeyi Yapan
 >**[Beyzanur GÜRSES](https://github.com/BEYZANURGURSES1036)**
